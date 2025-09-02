@@ -1,0 +1,11 @@
+_id,Nome,CPF,Rua,Numero,Cidade,UF,CEP,Telefone
+1,João Carlos Martins,78912345612,Rua 7,325,Franca,SP,14100657,14998764506
+2,Paulo Roberto Carvalho,87413465188,Rua Caetano Veloso,147,Pedregulho,SP,13753987,14999876456
+3,Antonio José do Nascimento,10936798411,Avenida Brasil,99,Itumbiara,GO,45687321,64987651209
+4,Maria Aparecida Silva,00912356199,Avenida Presidente Vargas,745,Passos,MG,26578987,33978653214
+5,Carla Roberto Pinto Soares,98743251455,Rua Pinto Ribeiro,32,Santa Rita de Cassia,MG,36549120,31980764312
+6,Bernardina Santos Correa,29616335104,Rua do Comércio,714,Cristais Paulista,SP,14852789,12956318721
+7,Fortunato Santana Amaral,31245643285,Rua São Francisco,338,Mococa,SP,13705852,14987526314
+8,Waldemar Costa Pereira,07356787312,Largo São Francisco,1235,Claraval,MG,15789254,35978453672
+9,Paula Francisca Ponciano,74754187422,Parque Dom Pedro,745,Cassia dos Coqueiros,SP,17895631,15987256381
+10,Pedro Paulo Barata Ribeiro,14576509834,Rua da Indústria,11,Uberlandia,MG,357951456,32974158345
