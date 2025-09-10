@@ -1,0 +1,34 @@
+# 📝 Padrão de commits (Conventional Commits)
+
+# Formato:
+# <tipo>(escopo opcional): <descrição curta>
+# 
+# Tipos mais usados:
+# feat     → nova funcionalidade
+# fix      → correção de bug
+# docs     → alterações em documentação
+# style    → formatação (sem alterar lógica)
+# refactor → refatoração de código
+# test     → adição/alteração de testes
+# chore    → manutenção (configs, dependências)
+# build    → mudanças no processo de build
+# ci       → integração contínua
+# perf     → melhorias de desempenho
+# revert   → reverter commit anterior
+#
+# Exemplo:
+# feat(mongodb): criar coleção inicial de usuários
+# fix(cassandra): corrigir erro em query de inserção
+
+<tipo>(<escopo opcional>): <descrição curta>
+
+# ------------------------------
+# Corpo do commit (opcional):
+# - Explique o que foi feito
+# - Descreva o motivo da mudança
+# - Adicione contexto técnico, se necessário
+#
+# Rodapé (opcional):
+# BREAKING CHANGE: descreva a mudança incompatível
+# Closes #<número da issue>
+# ------------------------------
